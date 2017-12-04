@@ -12,8 +12,8 @@ import www.hughwang.me.springbootlearning.utils.DateUtil;
  * @author hughwang
  * @date 2017/12/4 14:39
  */
-@Component
-@EnableScheduling
+//@Component
+//@EnableScheduling //需要打开
 @Slf4j
 public class SpringScheduleTask {
 
