@@ -22,4 +22,5 @@ public class RedisConfiguration {
         RedisCacheManager cacheManager = new RedisCacheManager(redisTemplate);
         return cacheManager;
     }
+
 }
